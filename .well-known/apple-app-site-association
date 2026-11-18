@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["L263SJWVTZ.com.freeed.releve"],
+        "components": [
+          { "/": "/releve-web/ambassadeur", "comment": "Lien « Ambassadeur » de Relève" },
+          { "/": "/releve-web/ambassadeur/", "comment": "Lien « Ambassadeur » de Relève (avec « / » au bout)" }
+        ]
+      }
+    ]
+  }
+}

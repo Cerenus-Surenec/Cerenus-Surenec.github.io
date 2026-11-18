@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.freeed.releve",
+      "sha256_cert_fingerprints": [
+        "97:38:65:46:BF:45:AE:DD:3F:4D:8C:8C:5D:B9:CC:B6:29:77:35:CB:18:6B:91:BD:F6:27:E9:3B:DE:7A:CB:A6",
+        "7F:D2:28:5C:F4:4B:FD:C1:DB:71:E0:75:6A:27:CC:F5:3A:61:96:BA:3A:5B:D6:BF:2C:59:4A:80:33:A1:18:FE"
+      ]
+    }
+  }
+]
